@@ -85,33 +85,7 @@
 
 По форме «Очень коротенький роман» — это обращение лирического героя — «молодого человека на деревянной ноге» — к читателю. Он — инвалид войны, на которую отправился добровольцем, чтобы соответствовать идеалам своей невесты, потому что «честные люди делом подтверждают свои слова». Невеста не сдержала своего обещания выйти замуж за вернувшегося героя и предпочла ему другого.</p>
 
-    <a href="https://www.google.com/search?q=%D0%B3%D1%80%D0%BE%D0%B1+%D0%BD%D0%B5%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%BE&rlz=1C1ASRM_enRU881RU881&oq=&aqs=chrome.3.69i59i450l8.358493650j0j15&sourceid=chrome&ie=UTF-8">Моя любимая ссылка снимающая стресс</a>
 
-    <img src="https://lh5.googleusercontent.com/rsyoavcPuG6-dm6NvRlnsCyRFmEdihREhw44SoTduMkxG_RLaJKuyt_xdsS7HPkvOPxHIUG9iM1fo60OSmGmdv4FBS7EQRvVZOhqSruba8Iow_KxIbzbm5zFyIW-X6Fu2pRy85w" height="250px/">
-
-     <h2 id="price">Услуги жизни</h2>
-            <table>
-                <tr>
-                    <td>Название услуги</td>
-                    <td>Цена</td>
-                    <td>Срок выполнения</td>
-                </tr>
-                <tr>
-                    <td>Психолог на дом <br/></td>
-                    <td>0 руб.</td>
-                    <td>1 дней</td>
-                </tr>
-                <tr>
-                    <td>Депрессия</td>
-                    <td>от 1500 руб.</td>
-                    <td>от 2-х дней</td>
-                </tr>
-                <tr>
-                    <td>Злость</td>
-                    <td>от 1000 руб.</td>
-                    <td>1 день</td>
-                </tr>
-            </table>
     
 
 
